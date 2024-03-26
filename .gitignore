@@ -1,0 +1,9 @@
+# Pycharm
+.idea
+.idea/*
+**/.idea/
+
+# Jupter Notebook
+__pycache__/*
+*.ipynb
+
